@@ -6,3 +6,6 @@ PGB Brackets plugin work
 * send to device functioning?
 * Are there tests?
     
+    
+See card:
+https://trello.com/card/pgb-update-extension/51072abad1b1f8a4560086bf/3
