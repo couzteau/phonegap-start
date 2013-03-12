@@ -3,3 +3,6 @@ PGB Brackets plugin work
 * Is there a security issue? How are  pass and AdobeID stored.
 * Need to persist login state
 * add log out 
+* send to device functioning?
+* Are there tests?
+    
